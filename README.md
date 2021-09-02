@@ -1,1 +1,1 @@
-"# django-password-generator" 
+"# django3-password-generator" 
